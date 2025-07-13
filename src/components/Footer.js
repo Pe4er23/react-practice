@@ -5,7 +5,6 @@ export default function Footer() {
             <div className="footer-links">
                 <a
                     href="https://github.com/Pe4er23"
-                    target="_blank"
                 >
                     GitHub
                 </a>
@@ -14,9 +13,14 @@ export default function Footer() {
                 </a>
                 <a
                     href="https://www.linkedin.com/in/vladyslav-denysenko-/"
-                    target="_blank"
                 >
                     LinkedIn
+                </a>
+                <a
+                    href="https://www.figma.com/design/GlSg2cFcqyEeaBS2W7eM9I/
+                    Untitled?node-id=0-1&p=f&t=CLWWiRTSGkxlnQOZ-0"
+                >
+                    Figma
                 </a>
             </div>
         </footer>
