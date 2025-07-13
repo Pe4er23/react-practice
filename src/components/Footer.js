@@ -4,20 +4,17 @@ export default function Footer() {
             <p>© 2024 Моє Портфоліо. Всі права захищені.</p>
             <div className="footer-links">
                 <a
-                    href="https://github.com/yourusername"
+                    href="https://github.com/Pe4er23"
                     target="_blank"
-                    rel="noopener noreferrer"
                 >
                     GitHub
                 </a>
-                <a href="mailto:your.email@example.com" className="hover:text-gray-300 transition-colors">
+                <a href="mailto:pe4enka306@gmail.com">
                     Email
                 </a>
                 <a
-                    href="https://linkedin.com/in/yourprofile"
+                    href="https://www.linkedin.com/in/vladyslav-denysenko-/"
                     target="_blank"
-                    rel="noopener noreferrer"
-                    className="hover:text-gray-300 transition-colors"
                 >
                     LinkedIn
                 </a>
